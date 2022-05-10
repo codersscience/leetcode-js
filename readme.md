@@ -43,6 +43,6 @@ It is a collection of popular leetcode problems with solutions.
 ### Arrays & Hashing:
 
 #### - 217 Contains Duplicate
-    [Link](https://leetcode.com/problems/contains-duplicate/)
+    [Link](`https://leetcode.com/problems/contains-duplicate/`)
     run tests `yarn jest problems/217_contains_duplicate --watch`
     
